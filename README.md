@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/bdeagle-code/Basketwork-eel-population-genomic
 
 ## Notes
 
-This script was used for the initial analysis for a paper submission. Check for the published paper for any updates or revised code.
+This script was used for the initial analysis for a paper submission. Check for any updates/revised code.
 
 ## License
 
