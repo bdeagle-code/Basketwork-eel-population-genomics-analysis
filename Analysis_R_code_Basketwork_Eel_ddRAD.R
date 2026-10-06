@@ -1,12 +1,13 @@
 ### Diastobranchus October 2026 DArT code for CSIRO DAP.R
-#   The code runs with files in the same DAP folder
+#   The code runs with files available at https://data.csiro.au/collection/csiro:78574 
+#   in the folder "R code and related files" 
 #
 #   This version of the code was used in analysis for the initial submission of a paper.
-#   Search for a publushed paper to check for updates
+#   It has been put on GitHub to provide any updated code 
 #
 #############################################
 #   D.capensis SNP data set analysis
-Folder= "C:/Users/dea146/OneDrive - CSIRO/Documents/00 People Papers Projects/Diastobranchus/RAD-seq 2026"
+Folder= "C:/Documents/00 People Papers Projects/Diastobranchus/RAD-seq 2026"
 setwd (Folder);  dir()
 
 #if (!require("BiocManager", quietly = TRUE))
